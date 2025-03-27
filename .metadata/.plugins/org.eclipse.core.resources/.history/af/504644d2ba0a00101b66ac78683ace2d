@@ -1,0 +1,16 @@
+package com.manish;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class TestController {
+@RequestMapping("/p1")
+  public void hi() {
+	System.out.println("Hi.. method called using spring boot");
+}
+
+//will goto browser and write the below line
+// http://localhost:8080/p1
+
+}
