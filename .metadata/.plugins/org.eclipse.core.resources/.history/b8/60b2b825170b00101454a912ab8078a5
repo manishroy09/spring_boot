@@ -1,0 +1,28 @@
+package com.manish;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+import jakarta.servlet.http.HttpServletRequest;
+
+@Controller
+public class DemoController {
+
+	@RequestMapping("/p5")
+	public String openF1() {
+		return "f1";
+	}
+	
+	@RequestMapping("/p5controller")
+	@ResponseBody
+	public String processF1(HttpServletRequest request) {
+		String fname = request.getParameter("fname");
+		String mname = request.getParameter("mname");
+		String lname = request.getParameter("lname");
+		
+		
+		return "Welcome : " +fname+ " "+mname+ " "+lname+ " " ;
+		
+	}
+}

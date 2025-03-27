@@ -1,0 +1,13 @@
+package com.manish;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+@Controller
+public class DemoController {
+
+	@RequestMapping("/p5")
+	public String openF1() {
+		return "f1";
+	}
+}
