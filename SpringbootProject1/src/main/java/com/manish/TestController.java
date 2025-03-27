@@ -13,6 +13,7 @@ public class TestController {
 	System.out.println("Hi.. method called using spring boot");
 }
 
+
 //will goto browser and write the below line
 // http://localhost:8080/p1
 @RequestMapping("/p2")
@@ -32,4 +33,13 @@ public class TestController {
    public String openIndex() {
 	   return "index";
    }
+   
+   
+   @RequestMapping("/p4")
+   @ResponseBody
+   public void name() {
+	   System.out.println("name method is called");
+   }
 }
+
+
