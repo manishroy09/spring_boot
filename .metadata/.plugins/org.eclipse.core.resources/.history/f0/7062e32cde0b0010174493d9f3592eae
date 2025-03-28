@@ -1,0 +1,18 @@
+package com.manish;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+
+
+
+@Controller
+public class HelloController {
+
+	public String OpenF2(Model model) {
+		
+		String name = "Manish Kumar";
+	   model.addAttribute("n", name);
+		return "f2";
+	}
+	
+}

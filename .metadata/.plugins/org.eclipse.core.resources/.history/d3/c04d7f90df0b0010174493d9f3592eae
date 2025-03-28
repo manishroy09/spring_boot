@@ -1,0 +1,19 @@
+package com.manish;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.RequestMapping;
+
+
+
+@Controller
+public class HelloController {
+       @RequestMapping("/p7")
+	public String OpenF2(Model model) {
+		
+		String name = "Manish Kumar";
+	   model.addAttribute("n", name);
+		return "f2";
+	}
+	
+}
