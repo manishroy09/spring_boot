@@ -1,12 +1,13 @@
 eclipse.preferences.version=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=1
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=SpringbootProject1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.thymeleaf=1
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=2
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=thymeleaf_project
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.4.4
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.manish
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=SpringbootProject1
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=thymeleaf_project
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.manish
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN

@@ -17,7 +17,8 @@ public class MyController {
      }
      @RequestMapping("/save")
 	public String openHome(@ModelAttribute User user, Model m) {
-    	 m.addAttribute("msg", "welcome : " +user.getName());
+    	 m.addAttribute("msg", "welcome : " +user.getName() );
+    	 m.addAttribute("age", "Your Age is  : " +user.getAge() );
 		return "s";
 	}
 }
