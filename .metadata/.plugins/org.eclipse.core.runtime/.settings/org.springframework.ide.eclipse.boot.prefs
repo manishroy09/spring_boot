@@ -1,13 +1,13 @@
 eclipse.preferences.version=1
 org.springframework.ide.eclipse.boot.wizard.PopularityTracker.thymeleaf=1
-org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=3
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=restApi
+org.springframework.ide.eclipse.boot.wizard.PopularityTracker.web=4
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.artifactId=empProjectTask
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.bootVersion=3.4.4
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.description=Demo project for Spring Boot
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.groupId=com.manish
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.javaVersion=17
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.language=java
-org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=restApi
+org.springframework.ide.eclipse.boot.wizard.PreferredSelections.name=empProjectTask
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packageName=com.manish
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.packaging=jar
 org.springframework.ide.eclipse.boot.wizard.PreferredSelections.type=MAVEN
