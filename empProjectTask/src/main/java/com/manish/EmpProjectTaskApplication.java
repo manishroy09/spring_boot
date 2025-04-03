@@ -14,10 +14,10 @@ public class EmpProjectTaskApplication implements CommandLineRunner{
 	public static void main(String[] args) {
 		SpringApplication.run(EmpProjectTaskApplication.class, args);
 	}
-
+	
 	@Autowired
 	private EmpRepository EmpRepository;
-	
+
 	@Override
 	public void run(String... args) throws Exception {
 		

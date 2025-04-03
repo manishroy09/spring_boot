@@ -1857,3 +1857,33 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact javax.servlet
 2025-04-03 10:46:10,706 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2025-04-03 10:46:10,719 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
 2025-04-03 10:46:10,723 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manis\Documents\StudentInformationSystem\StudentInformationSystem\src\test\resources
+2025-04-03 22:36:10,182 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-03 22:51:00,413 [Worker-20: Launching studentInformationSystem - StudentManagementSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2025-04-03 22:51:00,436 [Worker-20: Launching studentInformationSystem - StudentManagementSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources
+2025-04-03 22:51:00,445 [Worker-20: Launching studentInformationSystem - StudentManagementSystemApplication] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manis\Documents\StudentInformationSystem\StudentInformationSystem\src\test\resources
+2025-04-03 22:56:13,930 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-03 22:56:13,940 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-03 22:56:13,944 [Worker-0: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manis\Documents\Ib_j2\empProjectTask\src\test\resources
+2025-04-04 04:09:24,856 [Worker-7: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-04 04:16:05,022 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-04 04:16:05,040 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-04 04:16:05,050 [Worker-14: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manis\Documents\Ib_j2\empProjectTask\src\test\resources
+2025-04-04 04:20:50,645 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-04 04:20:50,652 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-04 04:20:50,657 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manis\Documents\Ib_j2\empProjectTask\src\test\resources
+2025-04-04 04:21:21,326 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-04 04:21:21,331 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-04 04:21:21,336 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manis\Documents\Ib_j2\empProjectTask\src\test\resources
+2025-04-04 04:32:00,387 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-04 04:32:00,395 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-04 04:32:00,399 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manis\Documents\Ib_j2\empProjectTask\src\test\resources
+2025-04-04 04:46:24,407 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.16; built: 2024-12-09T21:02:54.535Z; git: c3f88bafb4e393f23204dc14dc57b042e84debc7; jvm 21.0.6+7-LTS
+2025-04-04 04:46:24,464 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@5eeaaf7f{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@c11e900{STARTED}}
+2025-04-04 04:46:24,464 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-04 04:46:24,498 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@6ade4f3f{HTTP/1.1, (http/1.1)}{127.0.0.1:61847}
+2025-04-04 04:46:24,517 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@7730b37{STARTING}[12.0.16,sto=0] @2236983ms
+2025-04-04 04:50:55,964 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-04 04:50:55,973 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 3 resources from src\main\resources to target\classes
+2025-04-04 04:50:55,979 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\manis\Documents\Ib_j2\empProjectTask\src\test\resources
+2025-04-04 04:50:58,783 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@7730b37{STOPPING}[12.0.16,sto=0]
+2025-04-04 04:50:58,790 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@6ade4f3f{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
